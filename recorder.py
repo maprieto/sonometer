@@ -1,3 +1,7 @@
+# Part of the code has been updated from
+# http://www.swharden.com/wp/2013-05-09-realtime-fft-audio-visualization-with-python/
+# Author: Scott W Harden: neuroscientist, dentist, molecular biologist, code monkey (2013)
+
 import matplotlib
 matplotlib.use('TkAgg') # <-- THIS MAKES IT FAST!
 import numpy
